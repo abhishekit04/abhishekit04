@@ -1,7 +1,7 @@
 Hey👋 I'm Abhishek kumar singh, you can call me Praansho
 - Skyline: [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
 -An IT Student from Amity University , I am a programmar leaner , Proud Indian , enthusiastic to learn  
--programming languages. 
+-something new.
 
 <!---
 abhishekit04/abhishekit04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
