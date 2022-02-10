@@ -1,4 +1,6 @@
-- 👋 Hi, I’m [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
+- ![HiWaveGIF](https://user-images.githubusercontent.com/88192065/153472757-5abcd55f-94f0-4ed9-aa0e-d4c283739d34.gif)
+
+- I’m [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
 - 👀 I’m interested in cricket
 - 🌱 I’m currently learning C programming
 
