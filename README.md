@@ -1,9 +1,7 @@
-.![https://www.instagram.com/](https://www.instagram.com/praansho_abhishek04/)
-
 Hey👋 I'm Abhishek kumar singh, you can call me Praansho
 - Skyline: [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
 -An IT Student from Amity University , I am a programmar leaner , Proud Indian , enthusiastic to learn  
--something new.
+-New things, Passionated in Dance and cricket and Gold medalist in Karate
 
 <!---
 abhishekit04/abhishekit04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
