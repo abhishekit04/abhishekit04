@@ -1,8 +1,7 @@
-- ![HiWaveGIF](https://user-images.githubusercontent.com/88192065/153472757-5abcd55f-94f0-4ed9-aa0e-d4c283739d34.gif)
-
-- I’m [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
-- 👀 I’m interested in cricket
-- 🌱 I’m currently learning C programming
+Hey👋 I'm Abhishek kumar singh, you can call me Praansho
+- Skyline: [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
+-An IT Student from Amity University , I am a programmar leaner , Proud Indian , enthusiastic to learn  
+-programming languages. 
 
 <!---
 abhishekit04/abhishekit04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
