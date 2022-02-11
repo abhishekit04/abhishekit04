@@ -1,7 +1,14 @@
 Hey👋 I'm Abhishek kumar singh, you can call me Praansho
+
+<a href="https://www.instagram.com/praansho_abhishek04/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/abhishekit04/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/praansho"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
+
 - Skyline: [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
 -An IT Student from Amity University , I am a programmar leaner , Proud Indian , enthusiastic to learn  
 -New things, Passionated in Dance and cricket and Gold medalist in Karate
+
+
 
 <!---
 abhishekit04/abhishekit04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
