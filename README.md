@@ -1,4 +1,4 @@
-Hey👋 I'm Abhishek kumar singh, you can call me Praansho
+Hey👋 I'm Abhishek singh, you can call me Praansho
 
 <a href="https://www.instagram.com/praansho_abhishek04/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/abhishekit04/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
