@@ -5,7 +5,7 @@ Hey👋 I'm Abhishek singh, you can call me Praansho
 <a href="https://www.facebook.com/praansho"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 
 - Skyline: [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
--An IT Student , I am a programmar leaner , Proud Indian , enthusiastic to learn  
+- CSIT Student , I am a coding leaner , enthusiastic to learn  
 -New things, Passionated in Dance and cricket and Gold medalist in Karate
 
 
