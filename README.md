@@ -1,6 +1,6 @@
 Hey👋 I'm Abhishek Kr singh, you can call me Praansho
 
-<a href="https://www.instagram.com/avii_shu04/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+<a href="https://www.instagram.com/ig_avishu04/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/abhishekit04/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/praansho"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 
