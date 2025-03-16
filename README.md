@@ -4,9 +4,7 @@ Hey👋 I'm Abhishek Kr singh.
 <a href="https://www.linkedin.com/in/abhishekit04/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/praansho"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 
-- Skyline: [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
- Aspiring Software Developer | MERN Stack & Java Enthusiast | MCA Student
-
+ Aspiring Software Developer | MERN Stack & Java Programming Enthusiast | MCA Student
 I'm an IT student currently pursuing my Master’s in Computer Applications (MCA) from Sanjay Ghodawat University, after completing my Bachelor’s in Computer Applications (BCA) from Amity University.
 
 <!---
