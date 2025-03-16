@@ -1,11 +1,13 @@
-Hey👋 I'm Abhishek Kr singh, you can call me Praansho
+Hey👋 I'm Abhishek Kr singh.
 
 <a href=https://www.instagram.com/avi_shu04/><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/abhishekit04/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/praansho"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 
 - Skyline: [@abhishekit04](https://skyline.github.com/abhishekit04/2022)
-- CSIT Student, Coding Learner, Tech Enthusiast, Finalist in Smart India Hackathon 2022
+ Aspiring Software Developer | MERN Stack & Java Enthusiast | MCA Student
+
+I'm an IT student currently pursuing my Master’s in Computer Applications (MCA) from Sanjay Ghodawat University, after completing my Bachelor’s in Computer Applications (BCA) from Amity University.
 
 <!---
 abhishekit04/abhishekit04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
